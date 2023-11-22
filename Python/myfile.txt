@@ -1,0 +1,1095 @@
+
+
+current_date is ::2023-08-09 22:30:29.244317
+sell order with target:: 44668.8 on candle 2 result:: win
+
+current_date is ::2023-08-08 22:30:30.742655
+sell order with target:: 44734.2 on candle 5 result:: loss
+
+current_date is ::2023-08-07 22:30:31.569842
+sell order with target:: 44731.5 on candle 2 result:: loss
+
+current_date is ::2023-08-06 22:30:32.655089
+
+
+current_date is ::2023-08-05 22:30:33.452267
+
+
+current_date is ::2023-08-04 22:30:33.959383
+sell order with target:: 44452.149999999994 on candle 6 result:: loss
+
+current_date is ::2023-08-03 22:30:34.792571
+buy order with target:: 45049.75000000001 on candle 2 result:: loss
+
+current_date is ::2023-08-02 22:30:35.596753
+
+
+current_date is ::2023-08-01 22:30:36.154879
+sell order with target:: 45599.45 on candle 6 result:: win
+
+current_date is ::2023-07-31 22:30:36.951058
+sell order with target:: 45186.200000000004 on candle 2 result:: loss
+
+current_date is ::2023-07-30 22:30:38.024301
+
+
+current_date is ::2023-07-29 22:30:38.826483
+
+
+current_date is ::2023-07-28 22:30:39.404614
+sell order with target:: 45201.05 on candle 2 result:: ERROR
+
+current_date is ::2023-07-27 22:30:40.206794
+
+
+current_date is ::2023-07-26 22:30:40.762922
+sell order with target:: 45667.350000000006 on candle 2 result:: loss
+
+current_date is ::2023-07-25 22:30:41.607111
+
+
+current_date is ::2023-07-24 22:30:42.155235
+
+
+current_date is ::2023-07-23 22:30:42.929410
+
+
+current_date is ::2023-07-22 22:30:43.696583
+
+
+current_date is ::2023-07-21 22:30:44.479760
+buy order with target:: 46397.99999999999 on candle 2 result:: loss
+
+current_date is ::2023-07-20 22:30:45.289943
+buy order with target:: 45840.05 on candle 3 result:: win
+
+current_date is ::2023-07-19 22:30:46.228155
+sell order with target:: 45376.35 on candle 5 result:: loss
+
+current_date is ::2023-07-18 22:30:47.017335
+
+
+current_date is ::2023-07-17 22:30:47.598466
+sell order with target:: 44581.35 on candle 2 result:: loss
+
+current_date is ::2023-07-16 22:30:48.752726
+
+
+current_date is ::2023-07-15 22:30:49.567912
+
+
+current_date is ::2023-07-14 22:30:50.130040
+buy order with target:: 45054.049999999996 on candle 6 result:: loss
+
+current_date is ::2023-07-13 22:30:50.922216
+
+
+current_date is ::2023-07-12 22:30:51.460339
+sell order with target:: 44755.899999999994 on candle 2 result:: win
+
+current_date is ::2023-07-11 22:30:52.274522
+buy order with target:: 45217.850000000006 on candle 2 result:: loss
+
+current_date is ::2023-07-10 22:30:53.077705
+buy order with target:: 45198.899999999994 on candle 2 result:: loss
+
+current_date is ::2023-07-09 22:30:54.148947
+
+
+current_date is ::2023-07-08 22:30:54.902117
+
+
+current_date is ::2023-07-07 22:30:55.460242
+buy order with target:: 45358.90000000001 on candle 2 result:: loss
+
+current_date is ::2023-07-06 22:30:56.250421
+buy order with target:: 45214.1 on candle 2 result:: win
+
+current_date is ::2023-07-05 22:30:57.068606
+buy order with target:: 45448.399999999994 on candle 2 result:: loss
+
+current_date is ::2023-07-04 22:30:57.820775
+sell order with target:: 45086.0 on candle 2 result:: win
+
+current_date is ::2023-07-03 22:30:59.109067
+buy order with target:: 45188.9 on candle 2 result:: win
+
+current_date is ::2023-07-02 22:31:00.539390
+
+
+current_date is ::2023-07-01 22:31:01.216543
+
+
+current_date is ::2023-06-30 22:31:01.964713
+
+
+current_date is ::2023-06-29 22:31:02.800901
+
+
+current_date is ::2023-06-28 22:31:03.311016
+
+
+current_date is ::2023-06-27 22:31:03.845137
+sell order with target:: 43632.45 on candle 3 result:: loss
+
+current_date is ::2023-06-26 22:31:04.648319
+
+
+current_date is ::2023-06-25 22:31:05.420493
+
+
+current_date is ::2023-06-24 22:31:06.185666
+
+
+current_date is ::2023-06-23 22:31:06.674779
+sell order with target:: 43432.4 on candle 2 result:: loss
+
+current_date is ::2023-06-22 22:31:07.509967
+buy order with target:: 44100.25 on candle 3 result:: loss
+
+current_date is ::2023-06-21 22:31:08.445177
+sell order with target:: 43629.50000000001 on candle 2 result:: loss
+
+current_date is ::2023-06-20 22:31:09.242553
+sell order with target:: 43396.35 on candle 2 result:: win
+
+current_date is ::2023-06-19 22:31:10.217772
+sell order with target:: 43851.049999999996 on candle 2 result:: win
+
+current_date is ::2023-06-18 22:31:11.246004
+
+
+current_date is ::2023-06-17 22:31:12.021180
+
+
+current_date is ::2023-06-16 22:31:12.549300
+buy order with target:: 43818.850000000006 on candle 4 result:: win
+
+current_date is ::2023-06-15 22:31:13.446502
+sell order with target:: 43664.25 on candle 2 result:: win
+
+current_date is ::2023-06-14 22:31:14.254684
+sell order with target:: 44033.950000000004 on candle 2 result:: win
+
+current_date is ::2023-06-13 22:31:15.023858
+buy order with target:: 44305.600000000006 on candle 4 result:: ERROR
+
+current_date is ::2023-06-12 22:31:15.924061
+sell order with target:: 43826.05 on candle 2 result:: ERROR
+
+current_date is ::2023-06-11 22:31:16.970299
+
+
+current_date is ::2023-06-10 22:31:17.758476
+
+
+current_date is ::2023-06-09 22:31:18.339607
+buy order with target:: 44233.2 on candle 3 result:: loss
+
+current_date is ::2023-06-08 22:31:19.140790
+buy order with target:: 44371.15 on candle 5 result:: win
+
+current_date is ::2023-06-07 22:31:19.997983
+sell order with target:: 44143.59999999999 on candle 2 result:: ERROR
+
+current_date is ::2023-06-06 22:31:20.802163
+
+
+current_date is ::2023-06-05 22:31:21.384295
+buy order with target:: 44291.149999999994 on candle 2 result:: loss
+
+current_date is ::2023-06-04 22:31:22.483544
+
+
+current_date is ::2023-06-03 22:31:23.257719
+
+
+current_date is ::2023-06-02 22:31:23.767834
+sell order with target:: 43859.4 on candle 2 result:: loss
+
+current_date is ::2023-06-01 22:31:24.573016
+
+
+current_date is ::2023-05-31 22:31:25.115138
+sell order with target:: 44079.05 on candle 2 result:: win
+
+current_date is ::2023-05-30 22:31:25.920322
+buy order with target:: 44386.3 on candle 2 result:: win
+
+current_date is ::2023-05-29 22:31:26.812523
+
+
+current_date is ::2023-05-28 22:31:27.611703
+
+
+current_date is ::2023-05-27 22:31:28.461895
+
+
+current_date is ::2023-05-26 22:31:29.580148
+sell order with target:: 43439.85 on candle 2 result:: loss
+
+current_date is ::2023-05-25 22:31:30.387332
+sell order with target:: 43494.24999999999 on candle 3 result:: win
+
+current_date is ::2023-05-24 22:31:31.220518
+sell order with target:: 43599.25000000001 on candle 2 result:: loss
+
+current_date is ::2023-05-23 22:31:32.074711
+
+
+current_date is ::2023-05-22 22:31:32.626837
+
+
+current_date is ::2023-05-21 22:31:33.410014
+
+
+current_date is ::2023-05-20 22:31:34.183189
+
+
+current_date is ::2023-05-19 22:31:34.712308
+sell order with target:: 43710.799999999996 on candle 2 result:: win
+
+current_date is ::2023-05-18 22:31:35.537496
+
+
+current_date is ::2023-05-17 22:31:36.094621
+sell order with target:: 43655.95 on candle 7 result:: win
+
+current_date is ::2023-05-16 22:31:36.918807
+sell order with target:: 43697.74999999999 on candle 2 result:: ERROR
+
+current_date is ::2023-05-15 22:31:37.717987
+buy order with target:: 44078.6 on candle 5 result:: win
+
+current_date is ::2023-05-14 22:31:38.812235
+
+
+current_date is ::2023-05-13 22:31:39.660426
+
+
+current_date is ::2023-05-12 22:31:40.149537
+sell order with target:: 43180.95 on candle 3 result:: loss
+
+current_date is ::2023-05-11 22:31:40.949718
+sell order with target:: 43024.149999999994 on candle 2 result:: ERROR
+
+current_date is ::2023-05-10 22:31:41.776904
+sell order with target:: 43107.65 on candle 2 result:: loss
+
+current_date is ::2023-05-09 22:31:42.678109
+buy order with target:: 43632.850000000006 on candle 2 result:: loss
+
+current_date is ::2023-05-08 22:31:43.728346
+buy order with target:: 43216.8 on candle 2 result:: win
+
+current_date is ::2023-05-07 22:31:44.813591
+
+
+current_date is ::2023-05-06 22:31:45.629777
+
+
+current_date is ::2023-05-05 22:31:46.128888
+
+
+current_date is ::2023-05-04 22:31:46.691016
+
+
+current_date is ::2023-05-03 22:31:47.242140
+
+
+current_date is ::2023-05-02 22:31:47.725249
+
+
+current_date is ::2023-05-01 22:31:48.172350
+
+
+current_date is ::2023-04-30 22:31:48.652458
+
+
+current_date is ::2023-04-29 22:31:49.084556
+
+
+current_date is ::2023-04-28 22:31:49.521655
+
+
+current_date is ::2023-04-27 22:31:49.993762
+
+
+current_date is ::2023-04-26 22:31:50.495877
+
+
+current_date is ::2023-04-25 22:31:50.994988
+
+
+current_date is ::2023-04-24 22:31:51.467095
+
+
+current_date is ::2023-04-23 22:31:52.256274
+
+
+current_date is ::2023-04-22 22:31:53.074458
+
+
+current_date is ::2023-04-21 22:31:53.598577
+buy order with target:: 42504.5 on candle 2 result:: loss
+
+current_date is ::2023-04-20 22:31:54.358748
+buy order with target:: 42385.1 on candle 2 result:: loss
+
+current_date is ::2023-04-19 22:31:55.169933
+
+
+current_date is ::2023-04-18 22:31:55.687049
+buy order with target:: 42534.799999999996 on candle 3 result:: loss
+
+current_date is ::2023-04-17 22:31:56.544243
+
+
+current_date is ::2023-04-16 22:31:57.052357
+
+
+current_date is ::2023-04-15 22:31:57.774520
+
+
+current_date is ::2023-04-14 22:31:58.637717
+
+
+current_date is ::2023-04-13 22:31:59.458902
+buy order with target:: 41877.15 on candle 5 result:: win
+
+current_date is ::2023-04-12 22:32:00.366107
+sell order with target:: 41239.350000000006 on candle 2 result:: loss
+
+current_date is ::2023-04-11 22:32:01.188294
+
+
+current_date is ::2023-04-10 22:32:01.717412
+
+
+current_date is ::2023-04-09 22:32:02.225526
+
+
+current_date is ::2023-04-08 22:32:03.016706
+
+
+current_date is ::2023-04-07 22:32:03.749871
+
+
+current_date is ::2023-04-06 22:32:04.286993
+sell order with target:: 40728.00000000001 on candle 2 result:: loss
+
+current_date is ::2023-04-05 22:32:05.118181
+
+
+current_date is ::2023-04-04 22:32:05.637297
+
+
+current_date is ::2023-04-03 22:32:06.178421
+sell order with target:: 40519.6 on candle 2 result:: loss
+
+current_date is ::2023-04-02 22:32:07.211653
+
+
+current_date is ::2023-04-01 22:32:07.719769
+
+
+current_date is ::2023-03-31 22:32:08.261891
+
+
+current_date is ::2023-03-30 22:32:09.041068
+
+
+current_date is ::2023-03-29 22:32:09.536180
+buy order with target:: 39862.649999999994 on candle 2 result:: win
+
+current_date is ::2023-03-28 22:32:10.391373
+buy order with target:: 39641.99999999999 on candle 2 result:: loss
+
+current_date is ::2023-03-27 22:32:11.187552
+sell order with target:: 39220.5 on candle 2 result:: loss
+
+current_date is ::2023-03-26 22:32:12.293803
+
+
+current_date is ::2023-03-25 22:32:13.378048
+
+
+current_date is ::2023-03-24 22:32:13.926172
+sell order with target:: 39275.850000000006 on candle 2 result:: loss
+
+current_date is ::2023-03-23 22:32:14.720350
+sell order with target:: 39668.35 on candle 3 result:: loss
+
+current_date is ::2023-03-22 22:32:15.538536
+
+
+current_date is ::2023-03-21 22:32:16.081658
+sell order with target:: 39317.850000000006 on candle 2 result:: loss
+
+current_date is ::2023-03-20 22:32:16.918848
+sell order with target:: 38963.200000000004 on candle 2 result:: win
+
+current_date is ::2023-03-19 22:32:18.019118
+
+
+current_date is ::2023-03-18 22:32:18.817276
+
+
+current_date is ::2023-03-17 22:32:19.328392
+sell order with target:: 39225.5 on candle 2 result:: win
+
+current_date is ::2023-03-16 22:32:20.110569
+buy order with target:: 39296.95 on candle 2 result:: loss
+
+current_date is ::2023-03-15 22:32:20.919752
+
+
+current_date is ::2023-03-14 22:32:21.421866
+sell order with target:: 39224.0 on candle 2 result:: loss
+
+current_date is ::2023-03-13 22:32:22.202042
+buy order with target:: 40770.149999999994 on candle 2 result:: loss
+
+current_date is ::2023-03-12 22:32:23.251279
+
+
+current_date is ::2023-03-11 22:32:24.059462
+
+
+current_date is ::2023-03-10 22:32:24.562575
+
+
+current_date is ::2023-03-09 22:32:25.080692
+sell order with target:: 41391.7 on candle 2 result:: loss
+
+current_date is ::2023-03-08 22:32:25.842865
+
+
+current_date is ::2023-03-07 22:32:26.385987
+
+
+current_date is ::2023-03-06 22:32:26.908105
+buy order with target:: 41690.600000000006 on candle 2 result:: loss
+
+current_date is ::2023-03-05 22:32:27.999352
+
+
+current_date is ::2023-03-04 22:32:28.808534
+
+
+current_date is ::2023-03-03 22:32:29.837768
+
+
+current_date is ::2023-03-02 22:32:30.518921
+sell order with target:: 40331.149999999994 on candle 4 result:: win
+
+current_date is ::2023-03-01 22:32:31.291096
+buy order with target:: 40621.95 on candle 2 result:: win
+
+current_date is ::2023-02-28 22:32:32.117283
+sell order with target:: 40119.55 on candle 4 result:: win
+
+current_date is ::2023-02-27 22:32:32.852450
+sell order with target:: 39607.05 on candle 2 result:: loss
+
+current_date is ::2023-02-26 22:32:33.954698
+
+
+current_date is ::2023-02-25 22:32:34.748877
+
+
+current_date is ::2023-02-24 22:32:35.280998
+buy order with target:: 40403.1 on candle 2 result:: loss
+
+current_date is ::2023-02-23 22:32:36.110185
+sell order with target:: 39689.450000000004 on candle 3 result:: win
+
+current_date is ::2023-02-22 22:32:36.932371
+sell order with target:: 40363.95 on candle 2 result:: win
+
+current_date is ::2023-02-21 22:32:37.766560
+sell order with target:: 40325.6 on candle 2 result:: loss
+
+current_date is ::2023-02-20 22:32:38.540736
+buy order with target:: 41400.149999999994 on candle 3 result:: loss
+
+current_date is ::2023-02-19 22:32:39.586971
+
+
+current_date is ::2023-02-18 22:32:40.321137
+
+
+current_date is ::2023-02-17 22:32:40.850256
+sell order with target:: 41265.0 on candle 2 result:: win
+
+current_date is ::2023-02-16 22:32:41.670442
+buy order with target:: 42062.850000000006 on candle 2 result:: loss
+
+current_date is ::2023-02-15 22:32:42.516634
+sell order with target:: 41386.200000000004 on candle 5 result:: loss
+
+current_date is ::2023-02-14 22:32:43.302811
+sell order with target:: 41197.15000000001 on candle 2 result:: win
+
+current_date is ::2023-02-13 22:32:44.114995
+buy order with target:: 41786.200000000004 on candle 2 result:: loss
+
+current_date is ::2023-02-12 22:32:45.186237
+
+
+current_date is ::2023-02-11 22:32:45.915402
+
+
+current_date is ::2023-02-10 22:32:46.498533
+
+
+current_date is ::2023-02-09 22:32:46.957637
+
+
+current_date is ::2023-02-08 22:32:47.396736
+
+
+current_date is ::2023-02-07 22:32:47.828834
+
+
+current_date is ::2023-02-06 22:32:48.243928
+
+
+current_date is ::2023-02-05 22:32:48.709033
+
+
+current_date is ::2023-02-04 22:32:49.172138
+
+
+current_date is ::2023-02-03 22:32:49.607236
+
+
+current_date is ::2023-02-02 22:32:50.176364
+
+
+current_date is ::2023-02-01 22:32:50.675477
+
+
+current_date is ::2023-01-31 22:32:51.140584
+
+
+current_date is ::2023-01-30 22:32:51.644698
+
+
+current_date is ::2023-01-29 22:32:52.473884
+
+
+current_date is ::2023-01-28 22:32:53.026009
+
+
+current_date is ::2023-01-27 22:32:53.511120
+
+
+current_date is ::2023-01-26 22:32:54.315300
+
+
+current_date is ::2023-01-25 22:32:54.863424
+sell order with target:: 42392.95 on candle 2 result:: win
+
+current_date is ::2023-01-24 22:32:55.650602
+buy order with target:: 43119.8 on candle 4 result:: loss
+
+current_date is ::2023-01-23 22:32:56.466787
+
+
+current_date is ::2023-01-22 22:32:57.303976
+
+
+current_date is ::2023-01-21 22:32:58.340210
+
+
+current_date is ::2023-01-20 22:32:58.843323
+buy order with target:: 42694.950000000004 on candle 2 result:: win
+
+current_date is ::2023-01-19 22:32:59.865555
+buy order with target:: 42590.350000000006 on candle 5 result:: loss
+
+current_date is ::2023-01-18 22:33:00.748754
+sell order with target:: 42018.05 on candle 3 result:: loss
+
+current_date is ::2023-01-17 22:33:01.555937
+buy order with target:: 42474.85 on candle 3 result:: loss
+
+current_date is ::2023-01-16 22:33:02.410130
+
+
+current_date is ::2023-01-15 22:33:03.252320
+
+
+current_date is ::2023-01-14 22:33:04.039499
+
+
+current_date is ::2023-01-13 22:33:04.576619
+buy order with target:: 42377.15 on candle 5 result:: loss
+
+current_date is ::2023-01-12 22:33:05.372799
+sell order with target:: 41899.8 on candle 2 result:: loss
+
+current_date is ::2023-01-11 22:33:06.158977
+sell order with target:: 41709.99999999999 on candle 2 result:: loss
+
+current_date is ::2023-01-10 22:33:07.058180
+sell order with target:: 42161.55 on candle 2 result:: win
+
+current_date is ::2023-01-09 22:33:07.830355
+sell order with target:: 42051.65000000001 on candle 3 result:: loss
+
+current_date is ::2023-01-08 22:33:08.913601
+
+
+current_date is ::2023-01-07 22:33:09.763792
+
+
+current_date is ::2023-01-06 22:33:10.282910
+sell order with target:: 42360.49999999999 on candle 2 result:: win
+
+current_date is ::2023-01-05 22:33:11.075088
+sell order with target:: 42882.15 on candle 2 result:: loss
+
+current_date is ::2023-01-04 22:33:11.900275
+buy order with target:: 43646.049999999996 on candle 2 result:: loss
+
+current_date is ::2023-01-03 22:33:12.727462
+buy order with target:: 43534.45 on candle 2 result:: ERROR
+
+current_date is ::2023-01-02 22:33:13.534645
+
+
+current_date is ::2023-01-01 22:33:14.291815
+
+
+current_date is ::2022-12-31 22:33:15.047986
+
+
+current_date is ::2022-12-30 22:33:15.565104
+sell order with target:: 43065.45 on candle 4 result:: win
+
+current_date is ::2022-12-29 22:33:16.405293
+sell order with target:: 42455.7 on candle 2 result:: loss
+
+current_date is ::2022-12-28 22:33:17.224479
+buy order with target:: 43065.15 on candle 3 result:: ERROR
+
+current_date is ::2022-12-27 22:33:18.011656
+buy order with target:: 43032.649999999994 on candle 2 result:: loss
+
+current_date is ::2022-12-26 22:33:18.853846
+buy order with target:: 42079.45 on candle 2 result:: win
+
+current_date is ::2022-12-25 22:33:19.956096
+
+
+current_date is ::2022-12-24 22:33:20.730270
+
+
+current_date is ::2022-12-23 22:33:21.219381
+
+
+current_date is ::2022-12-22 22:33:21.781508
+sell order with target:: 42552.100000000006 on candle 2 result:: win
+
+current_date is ::2022-12-21 22:33:22.584689
+buy order with target:: 43695.5 on candle 2 result:: loss
+
+current_date is ::2022-12-20 22:33:23.415878
+
+
+current_date is ::2022-12-19 22:33:23.958001
+sell order with target:: 42991.049999999996 on candle 2 result:: loss
+
+current_date is ::2022-12-18 22:33:25.022240
+
+
+current_date is ::2022-12-17 22:33:25.805418
+
+
+current_date is ::2022-12-16 22:33:26.336537
+buy order with target:: 43569.25 on candle 2 result:: win
+
+current_date is ::2022-12-15 22:33:27.172727
+buy order with target:: 44192.8 on candle 2 result:: loss
+
+current_date is ::2022-12-14 22:33:27.988911
+buy order with target:: 44175.05 on candle 4 result:: loss
+
+current_date is ::2022-12-13 22:33:28.785101
+buy order with target:: 43971.75 on candle 2 result:: win
+
+current_date is ::2022-12-12 22:33:29.666290
+sell order with target:: 43271.899999999994 on candle 2 result:: loss
+
+current_date is ::2022-12-11 22:33:31.213640
+
+
+current_date is ::2022-12-10 22:33:32.227869
+
+
+current_date is ::2022-12-09 22:33:32.981039
+sell order with target:: 43525.8 on candle 5 result:: loss
+
+current_date is ::2022-12-08 22:33:33.940256
+buy order with target:: 43313.3 on candle 2 result:: win
+
+current_date is ::2022-12-07 22:33:35.068711
+sell order with target:: 43040.95 on candle 3 result:: loss
+
+current_date is ::2022-12-06 22:33:35.899900
+
+
+current_date is ::2022-12-05 22:33:36.430019
+sell order with target:: 42933.549999999996 on candle 4 result:: loss
+
+current_date is ::2022-12-04 22:33:37.483256
+
+
+current_date is ::2022-12-03 22:33:38.240428
+
+
+current_date is ::2022-12-02 22:33:38.800554
+buy order with target:: 43279.700000000004 on candle 2 result:: loss
+
+current_date is ::2022-12-01 22:33:39.855793
+
+
+current_date is ::2022-11-30 22:33:40.395915
+sell order with target:: 42970.25000000001 on candle 7 result:: win
+
+current_date is ::2022-11-29 22:33:41.251108
+buy order with target:: 43306.99999999999 on candle 2 result:: ERROR
+
+current_date is ::2022-11-28 22:33:42.069293
+buy order with target:: 43063.600000000006 on candle 2 result:: win
+
+current_date is ::2022-11-27 22:33:43.126533
+
+
+current_date is ::2022-11-26 22:33:43.914710
+
+
+current_date is ::2022-11-25 22:33:44.434829
+buy order with target:: 43297.100000000006 on candle 3 result:: win
+
+current_date is ::2022-11-24 22:33:45.220006
+buy order with target:: 42930.85 on candle 3 result:: win
+
+current_date is ::2022-11-23 22:33:46.004182
+
+
+current_date is ::2022-11-22 22:33:46.543305
+sell order with target:: 42267.40000000001 on candle 2 result:: loss
+
+current_date is ::2022-11-21 22:33:47.352488
+
+
+current_date is ::2022-11-20 22:33:47.807590
+
+
+current_date is ::2022-11-19 22:33:48.250690
+
+
+current_date is ::2022-11-18 22:33:48.695791
+
+
+current_date is ::2022-11-17 22:33:49.208907
+
+
+current_date is ::2022-11-16 22:33:49.668011
+
+
+current_date is ::2022-11-15 22:33:50.174125
+
+
+current_date is ::2022-11-14 22:33:50.626227
+
+
+current_date is ::2022-11-13 22:33:51.095333
+
+
+current_date is ::2022-11-12 22:33:51.509427
+
+
+current_date is ::2022-11-11 22:33:52.045550
+
+
+current_date is ::2022-11-10 22:33:52.579669
+
+
+current_date is ::2022-11-09 22:33:53.121791
+
+
+current_date is ::2022-11-08 22:33:53.612902
+
+
+current_date is ::2022-11-07 22:33:54.118016
+
+
+current_date is ::2022-11-06 22:33:54.899193
+
+
+current_date is ::2022-11-05 22:33:55.680370
+
+
+current_date is ::2022-11-04 22:33:56.229494
+sell order with target:: 41166.0 on candle 2 result:: loss
+
+current_date is ::2022-11-03 22:33:57.009672
+buy order with target:: 41311.450000000004 on candle 2 result:: win
+
+current_date is ::2022-11-02 22:33:57.765841
+sell order with target:: 41005.2 on candle 4 result:: ERROR
+
+current_date is ::2022-11-01 22:33:58.562021
+sell order with target:: 41281.299999999996 on candle 2 result:: loss
+
+current_date is ::2022-10-31 22:33:59.517238
+sell order with target:: 41045.3 on candle 2 result:: ERROR
+
+current_date is ::2022-10-30 22:34:00.900550
+
+
+current_date is ::2022-10-29 22:34:01.695730
+
+
+current_date is ::2022-10-28 22:34:02.204846
+buy order with target:: 41661.850000000006 on candle 2 result:: loss
+
+current_date is ::2022-10-27 22:34:03.076041
+buy order with target:: 41644.950000000004 on candle 5 result:: loss
+
+current_date is ::2022-10-26 22:34:04.203296
+
+
+current_date is ::2022-10-25 22:34:04.722413
+sell order with target:: 40829.24999999999 on candle 2 result:: ERROR
+
+current_date is ::2022-10-24 22:34:05.497588
+
+
+current_date is ::2022-10-23 22:34:06.285766
+
+
+current_date is ::2022-10-22 22:34:07.095950
+
+
+current_date is ::2022-10-21 22:34:07.725092
+
+
+current_date is ::2022-10-20 22:34:08.250210
+
+
+current_date is ::2022-10-19 22:34:08.772330
+
+
+current_date is ::2022-10-18 22:34:09.298447
+
+
+current_date is ::2022-10-17 22:34:09.852573
+sell order with target:: 38944.05 on candle 3 result:: loss
+
+current_date is ::2022-10-16 22:34:10.918814
+
+
+current_date is ::2022-10-15 22:34:11.704991
+
+
+current_date is ::2022-10-14 22:34:12.249114
+
+
+current_date is ::2022-10-13 22:34:12.793238
+sell order with target:: 38810.9 on candle 2 result:: loss
+
+current_date is ::2022-10-12 22:34:13.641429
+buy order with target:: 38997.9 on candle 2 result:: win
+
+current_date is ::2022-10-11 22:34:14.447613
+sell order with target:: 38655.25 on candle 4 result:: loss
+
+current_date is ::2022-10-10 22:34:15.250794
+
+
+current_date is ::2022-10-09 22:34:16.074981
+
+
+current_date is ::2022-10-08 22:34:16.870158
+
+
+current_date is ::2022-10-07 22:34:17.402280
+sell order with target:: 38747.399999999994 on candle 3 result:: loss
+
+current_date is ::2022-10-06 22:34:18.237468
+
+
+current_date is ::2022-10-05 22:34:19.040650
+
+
+current_date is ::2022-10-04 22:34:19.567768
+
+
+current_date is ::2022-10-03 22:34:20.066881
+
+
+current_date is ::2022-10-02 22:34:21.001092
+
+
+current_date is ::2022-10-01 22:34:21.782270
+
+
+current_date is ::2022-09-30 22:34:22.268379
+buy order with target:: 38182.35 on candle 7 result:: win
+
+current_date is ::2022-09-29 22:34:23.057557
+
+
+current_date is ::2022-09-28 22:34:23.619684
+
+
+current_date is ::2022-09-27 22:34:24.252827
+buy order with target:: 39077.3 on candle 2 result:: loss
+
+current_date is ::2022-09-26 22:34:25.059010
+
+
+current_date is ::2022-09-25 22:34:25.803178
+
+
+current_date is ::2022-09-24 22:34:26.548347
+
+
+current_date is ::2022-09-23 22:34:27.030456
+sell order with target:: 40009.299999999996 on candle 2 result:: win
+
+current_date is ::2022-09-22 22:34:27.902652
+
+
+current_date is ::2022-09-21 22:34:28.445777
+sell order with target:: 41010.3 on candle 7 result:: win
+
+current_date is ::2022-09-20 22:34:29.197945
+
+
+current_date is ::2022-09-19 22:34:29.776076
+buy order with target:: 41092.700000000004 on candle 4 result:: win
+
+current_date is ::2022-09-18 22:34:31.416446
+
+
+current_date is ::2022-09-17 22:34:32.211626
+
+
+current_date is ::2022-09-16 22:34:32.746747
+buy order with target:: 41304.95 on candle 2 result:: loss
+
+current_date is ::2022-09-15 22:34:33.607941
+buy order with target:: 41963.15 on candle 2 result:: loss
+
+current_date is ::2022-09-14 22:34:34.426129
+
+
+current_date is ::2022-09-13 22:34:34.960248
+sell order with target:: 40643.4 on candle 2 result:: loss
+
+current_date is ::2022-09-12 22:34:35.756428
+sell order with target:: 40426.049999999996 on candle 2 result:: win
+
+current_date is ::2022-09-11 22:34:36.833671
+
+
+current_date is ::2022-09-10 22:34:37.601844
+
+
+current_date is ::2022-09-09 22:34:38.128964
+
+
+current_date is ::2022-09-08 22:34:38.686090
+
+
+current_date is ::2022-09-07 22:34:39.225212
+
+
+current_date is ::2022-09-06 22:34:39.744329
+sell order with target:: 39652.75 on candle 4 result:: win
+
+current_date is ::2022-09-05 22:34:40.599523
+buy order with target:: 39941.700000000004 on candle 2 result:: ERROR
+
+current_date is ::2022-09-04 22:34:41.722777
+
+
+current_date is ::2022-09-03 22:34:42.476948
+
+
+current_date is ::2022-09-02 22:34:42.996065
+sell order with target:: 39148.25000000001 on candle 3 result:: ERROR
+
+current_date is ::2022-09-01 22:34:43.822251
+
+
+current_date is ::2022-08-31 22:34:44.606430
+
+
+current_date is ::2022-08-30 22:34:45.104540
+buy order with target:: 38888.40000000001 on candle 2 result:: win
+
+current_date is ::2022-08-29 22:34:45.899721
+
+
+current_date is ::2022-08-28 22:34:46.395832
+
+
+current_date is ::2022-08-27 22:34:46.833931
+
+
+current_date is ::2022-08-26 22:34:47.327044
+
+
+current_date is ::2022-08-25 22:34:47.783146
+
+
+current_date is ::2022-08-24 22:34:48.247252
+
+
+current_date is ::2022-08-23 22:34:48.661344
+
+
+current_date is ::2022-08-22 22:34:49.143452
+
+
+current_date is ::2022-08-21 22:34:49.636565
+
+
+current_date is ::2022-08-20 22:34:50.088667
+
+
+current_date is ::2022-08-19 22:34:50.588781
+
+
+current_date is ::2022-08-18 22:34:51.056886
+
+
+current_date is ::2022-08-17 22:34:51.512989
+
+
+current_date is ::2022-08-16 22:34:51.988097
+
+
+current_date is ::2022-08-15 22:34:52.506216
+
+
+current_date is ::2022-08-14 22:34:53.281389
+
+
+current_date is ::2022-08-13 22:34:54.065567
+
+
+current_date is ::2022-08-12 22:34:54.585684
+sell order with target:: 38747.100000000006 on candle 2 result:: win
+
+current_date is ::2022-08-11 22:34:55.375862
+
+
+current_date is ::2022-08-10 22:34:55.898982
